@@ -1,10 +1,10 @@
 /* styles.css */
 
 div {
-    color: brown;
-    background-color: cyan;
+    color: purple;
+    background-color: peachpuff;
 }
 
-p {
-    color: green;
+p, ol, ul {
+    color: rgb(43, 168, 226);
 }
